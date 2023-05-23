@@ -1,0 +1,1 @@
+print("hello jg new branch ftrom main og jenkinsgit repo")
